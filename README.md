@@ -7,7 +7,7 @@ LED GROVE [33108-33109-33110-33111-33202](https://www.pierron.fr/modules-led-gro
 Caractéristiques techniques :
 - Alimentation : 3-5V
 - Consommation : 20 mA
-- Luminosité réglable
+- Luminosité réglable.
 
 ![33202](/img/L-33202.jpg)
 
