@@ -26,8 +26,8 @@ Pour l’utilisation de ce module, référez-vous aux indications présentes sur
 ### Arduino / C++
 ```cpp
 /*
- *   ** Cycle clignotant 500ms LED Grove **
- *     PIN D7 Module shield GROVE
+    ** Cycle clignotant 500ms LED Grove **
+      PIN D7 Module shield GROVE
 */
 #define LED 7
 
